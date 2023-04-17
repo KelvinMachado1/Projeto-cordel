@@ -22,7 +22,7 @@ html, body{
 
 }
 header{
-    background-color: black;   
+    background-color: rgb(20, 11, 11);   
     color: white;
     text-align: center;
 }
@@ -36,7 +36,7 @@ header > p {
     
 }
 a {
-    color: white;
+    color: rgb(161, 153, 153);
     text-decoration: none;
     font-weight: bolder;
 
